@@ -1,3 +1,5 @@
+> **Версия:** 1.0 • **Последнее обновление:** 2026-09-20
+
 # 🎬 Перенос фильмов: Кинопоиск → IMDb, js-script, 2026.05
 
 [📥 Скачать готовый архив проекта (ZIP)](https://github.com/Eniggman/kinopoisk-imdb-migrate/raw/main/kinopoisk-to-imdb.zip)
