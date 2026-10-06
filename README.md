@@ -409,3 +409,9 @@ part_5_102_items.json    ← остальные
 ---
 
 *Проект собран в 2026.05*
+
+---
+
+## English summary
+
+A step-by-step guide and set of scripts for migrating your movie ratings and watchlist from Kinopoisk to IMDb. Browser-console JavaScript scrapes your Kinopoisk data, Python scripts (pandas, matplotlib) build a CSV database and a Markdown archive and find IMDb IDs using Letterboxd as a bridge plus the IMDb autocomplete API, then ratings (1-10) are imported with a Tampermonkey userscript and the watchlist with a browser-console importer. The quickest way to start is to download kinopoisk-to-imdb.zip and open it in an IDE with an AI coding assistant.
